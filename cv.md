@@ -14,3 +14,30 @@ I am 39 years old, I work as a lead diagnostic and monitoring engineer. I think 
     * Team playing
 
 > **Keep learning...**
+
+# Skills
+
+* HTML
+* CSS (Bootstrap, SASS/SCSS, BEM)
+* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* Git/GitHub
+* React JS
+* Node JS (Nest JS)
+
+
+# Code Examples
+
+```
+function isIsogram(str){
+    return !str.toLowerCase().split('').some(function (item, index, arr) {
+        return arr.indexOf(item) !== index
+    })
+}
+```
+
+# Education
+
+* **Penza State Technological University**
+    * Information Technology, Computers and Networks
+* **Courses**
+    * [JavaScript (in process...)](https://app.rs.school/)
