@@ -41,3 +41,8 @@ function isIsogram(str){
     * Information Technology, Computers and Networks
 * **Courses**
     * [JavaScript (in process...)](https://app.rs.school/)
+
+# Languages
+
+* **Russian** - native speaker.
+* **English** - A2 (B1 in process...)
